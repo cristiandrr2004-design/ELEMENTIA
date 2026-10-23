@@ -7,6 +7,6 @@ public class MenuInicio : MonoBehaviour
 {
     void Start()
     {
-        Partida.vidas = 3;
+        Partida.vidas = Partida.vidasIniciales;
     }
 }

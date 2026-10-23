@@ -1,16 +1,17 @@
 using UnityEngine;
 
+// Corazon de agua: al tocarlo el Jugador gana 1 corazon, hasta un maximo de 5.
+// Necesita un Collider2D con "Is Trigger" marcado.
 public class Agua : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    void OnTriggerEnter2D(Collider2D otro)
     {
-        
-    }
+        if (otro.CompareTag("Player"))
+        {
+            if (Partida.vidas < Partida.vidasMaximas)
+                Partida.vidas = Partida.vidas + 1;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+            Destroy(gameObject);
+        }
     }
 }
