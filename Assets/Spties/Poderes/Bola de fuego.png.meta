@@ -1,0 +1,846 @@
+fileFormatVersion: 2
+guid: 22486c5d6e2a7e94595e813de3c222c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6318207806636517017
+    second: Bola de fuego_0
+  - first:
+      213: -5500129625459953466
+    second: Bola de fuego_1
+  - first:
+      213: -7414912720521680615
+    second: Bola de fuego_2
+  - first:
+      213: 6241647580277860998
+    second: Bola de fuego_3
+  - first:
+      213: 2089115070780349729
+    second: Bola de fuego_4
+  - first:
+      213: 2569076829817237101
+    second: Bola de fuego_5
+  - first:
+      213: 4425647336756904440
+    second: Bola de fuego_6
+  - first:
+      213: -6852214203697172205
+    second: Bola de fuego_7
+  - first:
+      213: -2475129117137018795
+    second: Bola de fuego_8
+  - first:
+      213: 1540069482041252696
+    second: Bola de fuego_9
+  - first:
+      213: 3639248054933960990
+    second: Bola de fuego_10
+  - first:
+      213: -2177210920072470600
+    second: Bola de fuego_11
+  - first:
+      213: -3916722771125767605
+    second: Bola de fuego_12
+  - first:
+      213: 776618463943519140
+    second: Bola de fuego_13
+  - first:
+      213: -5921330094463427474
+    second: Bola de fuego_14
+  - first:
+      213: -1878454104322666274
+    second: Bola de fuego_15
+  - first:
+      213: -7670523141378185418
+    second: Bola de fuego_16
+  - first:
+      213: 8940642898975297184
+    second: Bola de fuego_17
+  - first:
+      213: 9014016466614095593
+    second: Bola de fuego_18
+  - first:
+      213: -244188959170547645
+    second: Bola de fuego_19
+  - first:
+      213: -3959808695933169719
+    second: Bola de fuego_20
+  - first:
+      213: 7826616680623211040
+    second: Bola de fuego_21
+  - first:
+      213: -4603172442761438756
+    second: Bola de fuego_22
+  - first:
+      213: -1108123429237731138
+    second: Bola de fuego_23
+  - first:
+      213: 5264010976847895155
+    second: Bola de fuego_24
+  - first:
+      213: -7832435610982145633
+    second: Bola de fuego_25
+  - first:
+      213: 8079862794508597747
+    second: Bola de fuego_26
+  - first:
+      213: -6500511948115661594
+    second: Bola de fuego_27
+  - first:
+      213: -6527406716475406987
+    second: Bola de fuego_28
+  - first:
+      213: 661277813306762293
+    second: Bola de fuego_29
+  - first:
+      213: -5180189526244834114
+    second: Bola de fuego_30
+  - first:
+      213: 5884434906927365394
+    second: Bola de fuego_31
+  - first:
+      213: 8358467224058798835
+    second: Bola de fuego_32
+  - first:
+      213: 2237056087425101304
+    second: Bola de fuego_33
+  - first:
+      213: 5301729496857003994
+    second: Bola de fuego_34
+  - first:
+      213: 770965326915873346
+    second: Bola de fuego_35
+  - first:
+      213: 5979160242516709359
+    second: Bola de fuego_36
+  - first:
+      213: 5288089306431091626
+    second: Bola de fuego_37
+  - first:
+      213: -5237464043019752387
+    second: Bola de fuego_38
+  - first:
+      213: 2241927082202442168
+    second: Bola de fuego_39
+  - first:
+      213: -1303295362095243259
+    second: Bola de fuego_40
+  - first:
+      213: 1728971902297856051
+    second: Bola de fuego_41
+  - first:
+      213: -6714621130152671338
+    second: Bola de fuego_42
+  - first:
+      213: -5008877542906851851
+    second: Bola de fuego_43
+  - first:
+      213: -8077956141238889759
+    second: Bola de fuego_44
+  - first:
+      213: -5968246811186968619
+    second: Bola de fuego_45
+  - first:
+      213: -8902045709407333588
+    second: Bola de fuego_46
+  - first:
+      213: 1147444019566640217
+    second: Bola de fuego_47
+  - first:
+      213: -2999967561741888389
+    second: Bola de fuego_48
+  - first:
+      213: 616349981414459711
+    second: Bola de fuego_49
+  - first:
+      213: 3001541668459734220
+    second: Bola de fuego_50
+  - first:
+      213: -1753647482014885921
+    second: Bola de fuego_51
+  - first:
+      213: 3306790750295860889
+    second: Bola de fuego_52
+  - first:
+      213: 4034503818794188817
+    second: Bola de fuego_53
+  - first:
+      213: -2812835413806553240
+    second: Bola de fuego_54
+  - first:
+      213: -9210788669302659275
+    second: Bola de fuego_55
+  - first:
+      213: -7259063850516738249
+    second: Bola de fuego_56
+  - first:
+      213: 8095064876397950204
+    second: Bola de fuego_57
+  - first:
+      213: 1432960161297891570
+    second: Bola de fuego_58
+  - first:
+      213: 2863540117739602044
+    second: Bola de fuego_59
+  - first:
+      213: 8387817257408584382
+    second: Bola de fuego_60
+  - first:
+      213: -7837714845546642405
+    second: Bola de fuego_61
+  - first:
+      213: 2540078230549260174
+    second: Bola de fuego_62
+  - first:
+      213: -6270075947787086766
+    second: Bola de fuego_63
+  - first:
+      213: 7336333073630766657
+    second: Bola de fuego_64
+  - first:
+      213: 4335223102832316443
+    second: Bola de fuego_65
+  - first:
+      213: -7189651297516082466
+    second: Bola de fuego_66
+  - first:
+      213: 8851995365193416960
+    second: Bola de fuego_67
+  - first:
+      213: 7868603812133387583
+    second: Bola de fuego_68
+  - first:
+      213: -2214847884839336587
+    second: Bola de fuego_69
+  - first:
+      213: -1390069276634647078
+    second: Bola de fuego_70
+  - first:
+      213: 6602852338786187199
+    second: Bola de fuego_71
+  - first:
+      213: -4353903307465770013
+    second: Bola de fuego_72
+  - first:
+      213: -5775246638598917440
+    second: Bola de fuego_73
+  - first:
+      213: 6291061545942020372
+    second: Bola de fuego_74
+  - first:
+      213: -9125552046267152770
+    second: Bola de fuego_75
+  - first:
+      213: 6781685180326443045
+    second: Bola de fuego_76
+  - first:
+      213: 4797015048936686924
+    second: Bola de fuego_77
+  - first:
+      213: -8023833493625421480
+    second: Bola de fuego_78
+  - first:
+      213: -4641404999189718165
+    second: Bola de fuego_79
+  - first:
+      213: -6096874768345508560
+    second: Bola de fuego_80
+  - first:
+      213: 1455070663284953320
+    second: Bola de fuego_81
+  - first:
+      213: 1795673649919267876
+    second: Bola de fuego_82
+  - first:
+      213: 2012757139666616733
+    second: Bola de fuego_83
+  - first:
+      213: 2252894557979549602
+    second: Bola de fuego_84
+  - first:
+      213: -7803785981509788651
+    second: Bola de fuego_85
+  - first:
+      213: -8815081488909525700
+    second: Bola de fuego_86
+  - first:
+      213: 1445582697858106789
+    second: Bola de fuego_87
+  - first:
+      213: -1880875169530238150
+    second: Bola de fuego_88
+  - first:
+      213: -4274683291225417043
+    second: Bola de fuego_89
+  - first:
+      213: 8510719526567869440
+    second: Bola de fuego_90
+  - first:
+      213: -7143610100078605524
+    second: Bola de fuego_91
+  - first:
+      213: -4305608320738714896
+    second: Bola de fuego_92
+  - first:
+      213: -6632773299373112735
+    second: Bola de fuego_93
+  - first:
+      213: -465784945406682222
+    second: Bola de fuego_94
+  - first:
+      213: 8402158780306383158
+    second: Bola de fuego_95
+  - first:
+      213: -8109123748646106178
+    second: Bola de fuego_96
+  - first:
+      213: 932467823044833349
+    second: Bola de fuego_97
+  - first:
+      213: -327923723117475390
+    second: Bola de fuego_98
+  - first:
+      213: -1645168140788920478
+    second: Bola de fuego_99
+  - first:
+      213: 1277566207799133993
+    second: Bola de fuego_100
+  - first:
+      213: 8380995643510785203
+    second: Bola de fuego_101
+  - first:
+      213: -8760805007350732336
+    second: Bola de fuego_102
+  - first:
+      213: -6649794262304860292
+    second: Bola de fuego_103
+  - first:
+      213: -238129978554080213
+    second: Bola de fuego_104
+  - first:
+      213: -3052455096145307786
+    second: Bola de fuego_105
+  - first:
+      213: 2879263465422943542
+    second: Bola de fuego_106
+  - first:
+      213: 1501615285855554443
+    second: Bola de fuego_107
+  - first:
+      213: 6970277758912423120
+    second: Bola de fuego_108
+  - first:
+      213: 281616893774759767
+    second: Bola de fuego_109
+  - first:
+      213: -5743730177406979487
+    second: Bola de fuego_110
+  - first:
+      213: -5908120289644877190
+    second: Bola de fuego_111
+  - first:
+      213: -5142522973438770221
+    second: Bola de fuego_112
+  - first:
+      213: -8322295560265512087
+    second: Bola de fuego_113
+  - first:
+      213: 1026150031547378168
+    second: Bola de fuego_114
+  - first:
+      213: 5345621737344577869
+    second: Bola de fuego_115
+  - first:
+      213: -7062478140000619967
+    second: Bola de fuego_116
+  - first:
+      213: 7481647949088828869
+    second: Bola de fuego_117
+  - first:
+      213: -1363063499122505522
+    second: Bola de fuego_118
+  - first:
+      213: -5465755549474387360
+    second: Bola de fuego_119
+  - first:
+      213: 3883731518882774641
+    second: Bola de fuego_120
+  - first:
+      213: 39066050821900656
+    second: Bola de fuego_121
+  - first:
+      213: 1432794899762222302
+    second: Bola de fuego_122
+  - first:
+      213: -8815578959670585312
+    second: Bola de fuego_123
+  - first:
+      213: 6738473539596055035
+    second: Bola de fuego_124
+  - first:
+      213: 6855885640598117023
+    second: Bola de fuego_125
+  - first:
+      213: -8674645136834453529
+    second: Bola de fuego_126
+  - first:
+      213: -6898764996711357683
+    second: Bola de fuego_127
+  - first:
+      213: 962570401145644593
+    second: Bola de fuego_128
+  - first:
+      213: -3789823349221897645
+    second: Bola de fuego_129
+  - first:
+      213: -7688761411582875972
+    second: Bola de fuego_130
+  - first:
+      213: 8789188354736674651
+    second: Bola de fuego_131
+  - first:
+      213: 1497467891907309843
+    second: Bola de fuego_132
+  - first:
+      213: 8700293732226904366
+    second: Bola de fuego_133
+  - first:
+      213: -6723701125412356198
+    second: Bola de fuego_134
+  - first:
+      213: -211471433734329618
+    second: Bola de fuego_135
+  - first:
+      213: -215491822295488584
+    second: Bola de fuego_136
+  - first:
+      213: -5737138879098283228
+    second: Bola de fuego_137
+  - first:
+      213: 4872674462089934950
+    second: Bola de fuego_138
+  - first:
+      213: -3561517361725010089
+    second: Bola de fuego_139
+  - first:
+      213: -4317907741585583177
+    second: Bola de fuego_140
+  - first:
+      213: -7842718865804984739
+    second: Bola de fuego_141
+  - first:
+      213: -3679686297760110020
+    second: Bola de fuego_142
+  - first:
+      213: 7992260258180300464
+    second: Bola de fuego_143
+  - first:
+      213: 8371842404384702056
+    second: Bola de fuego_144
+  - first:
+      213: 6496326823476110826
+    second: Bola de fuego_145
+  - first:
+      213: 1337055785678812647
+    second: Bola de fuego_146
+  - first:
+      213: -1875993909223502364
+    second: Bola de fuego_147
+  - first:
+      213: -2142768121660929687
+    second: Bola de fuego_148
+  - first:
+      213: -3423257759344002663
+    second: Bola de fuego_149
+  - first:
+      213: -1193393818806305195
+    second: Bola de fuego_150
+  - first:
+      213: 2527565646846291335
+    second: Bola de fuego_151
+  - first:
+      213: 1709582269500318434
+    second: Bola de fuego_152
+  - first:
+      213: 1743968463866007804
+    second: Bola de fuego_153
+  - first:
+      213: -4413611788637203664
+    second: Bola de fuego_154
+  - first:
+      213: 5652262206571900654
+    second: Bola de fuego_155
+  - first:
+      213: -4419752094303459817
+    second: Bola de fuego_156
+  - first:
+      213: -7094240725162485745
+    second: Bola de fuego_157
+  - first:
+      213: -8116332757895101306
+    second: Bola de fuego_158
+  - first:
+      213: -7995986420075708307
+    second: Bola de fuego_159
+  - first:
+      213: 5557450253917551741
+    second: Bola de fuego_160
+  - first:
+      213: -6176665012145860885
+    second: Bola de fuego_161
+  - first:
+      213: 9153586058687536202
+    second: Bola de fuego_162
+  - first:
+      213: -760291203258398083
+    second: Bola de fuego_163
+  - first:
+      213: -584636222257956689
+    second: Bola de fuego_164
+  - first:
+      213: -4513708257563719976
+    second: Bola de fuego_165
+  - first:
+      213: -4835634708633259507
+    second: Bola de fuego_166
+  - first:
+      213: -7097273031855288280
+    second: Bola de fuego_167
+  - first:
+      213: -8892555810607315085
+    second: Bola de fuego_168
+  - first:
+      213: -3280730638284812474
+    second: Bola de fuego_169
+  - first:
+      213: -5084167760661169897
+    second: Bola de fuego_170
+  - first:
+      213: -7261197754987494931
+    second: Bola de fuego_171
+  - first:
+      213: -7673098336427017491
+    second: Bola de fuego_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bola de fuego_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 320
+        width: 2097
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7699454a9773158a0800000000000000
+      internalID: -6318207806636517017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fb6c6e104698ab04787c18e56108e73e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bola de fuego_0: -6318207806636517017
+      Bola de fuego_1: -5500129625459953466
+      Bola de fuego_10: 3639248054933960990
+      Bola de fuego_100: 1277566207799133993
+      Bola de fuego_101: 8380995643510785203
+      Bola de fuego_102: -8760805007350732336
+      Bola de fuego_103: -6649794262304860292
+      Bola de fuego_104: -238129978554080213
+      Bola de fuego_105: -3052455096145307786
+      Bola de fuego_106: 2879263465422943542
+      Bola de fuego_107: 1501615285855554443
+      Bola de fuego_108: 6970277758912423120
+      Bola de fuego_109: 281616893774759767
+      Bola de fuego_11: -2177210920072470600
+      Bola de fuego_110: -5743730177406979487
+      Bola de fuego_111: -5908120289644877190
+      Bola de fuego_112: -5142522973438770221
+      Bola de fuego_113: -8322295560265512087
+      Bola de fuego_114: 1026150031547378168
+      Bola de fuego_115: 5345621737344577869
+      Bola de fuego_116: -7062478140000619967
+      Bola de fuego_117: 7481647949088828869
+      Bola de fuego_118: -1363063499122505522
+      Bola de fuego_119: -5465755549474387360
+      Bola de fuego_12: -3916722771125767605
+      Bola de fuego_120: 3883731518882774641
+      Bola de fuego_121: 39066050821900656
+      Bola de fuego_122: 1432794899762222302
+      Bola de fuego_123: -8815578959670585312
+      Bola de fuego_124: 6738473539596055035
+      Bola de fuego_125: 6855885640598117023
+      Bola de fuego_126: -8674645136834453529
+      Bola de fuego_127: -6898764996711357683
+      Bola de fuego_128: 962570401145644593
+      Bola de fuego_129: -3789823349221897645
+      Bola de fuego_13: 776618463943519140
+      Bola de fuego_130: -7688761411582875972
+      Bola de fuego_131: 8789188354736674651
+      Bola de fuego_132: 1497467891907309843
+      Bola de fuego_133: 8700293732226904366
+      Bola de fuego_134: -6723701125412356198
+      Bola de fuego_135: -211471433734329618
+      Bola de fuego_136: -215491822295488584
+      Bola de fuego_137: -5737138879098283228
+      Bola de fuego_138: 4872674462089934950
+      Bola de fuego_139: -3561517361725010089
+      Bola de fuego_14: -5921330094463427474
+      Bola de fuego_140: -4317907741585583177
+      Bola de fuego_141: -7842718865804984739
+      Bola de fuego_142: -3679686297760110020
+      Bola de fuego_143: 7992260258180300464
+      Bola de fuego_144: 8371842404384702056
+      Bola de fuego_145: 6496326823476110826
+      Bola de fuego_146: 1337055785678812647
+      Bola de fuego_147: -1875993909223502364
+      Bola de fuego_148: -2142768121660929687
+      Bola de fuego_149: -3423257759344002663
+      Bola de fuego_15: -1878454104322666274
+      Bola de fuego_150: -1193393818806305195
+      Bola de fuego_151: 2527565646846291335
+      Bola de fuego_152: 1709582269500318434
+      Bola de fuego_153: 1743968463866007804
+      Bola de fuego_154: -4413611788637203664
+      Bola de fuego_155: 5652262206571900654
+      Bola de fuego_156: -4419752094303459817
+      Bola de fuego_157: -7094240725162485745
+      Bola de fuego_158: -8116332757895101306
+      Bola de fuego_159: -7995986420075708307
+      Bola de fuego_16: -7670523141378185418
+      Bola de fuego_160: 5557450253917551741
+      Bola de fuego_161: -6176665012145860885
+      Bola de fuego_162: 9153586058687536202
+      Bola de fuego_163: -760291203258398083
+      Bola de fuego_164: -584636222257956689
+      Bola de fuego_165: -4513708257563719976
+      Bola de fuego_166: -4835634708633259507
+      Bola de fuego_167: -7097273031855288280
+      Bola de fuego_168: -8892555810607315085
+      Bola de fuego_169: -3280730638284812474
+      Bola de fuego_17: 8940642898975297184
+      Bola de fuego_170: -5084167760661169897
+      Bola de fuego_171: -7261197754987494931
+      Bola de fuego_172: -7673098336427017491
+      Bola de fuego_18: 9014016466614095593
+      Bola de fuego_19: -244188959170547645
+      Bola de fuego_2: -7414912720521680615
+      Bola de fuego_20: -3959808695933169719
+      Bola de fuego_21: 7826616680623211040
+      Bola de fuego_22: -4603172442761438756
+      Bola de fuego_23: -1108123429237731138
+      Bola de fuego_24: 5264010976847895155
+      Bola de fuego_25: -7832435610982145633
+      Bola de fuego_26: 8079862794508597747
+      Bola de fuego_27: -6500511948115661594
+      Bola de fuego_28: -6527406716475406987
+      Bola de fuego_29: 661277813306762293
+      Bola de fuego_3: 6241647580277860998
+      Bola de fuego_30: -5180189526244834114
+      Bola de fuego_31: 5884434906927365394
+      Bola de fuego_32: 8358467224058798835
+      Bola de fuego_33: 2237056087425101304
+      Bola de fuego_34: 5301729496857003994
+      Bola de fuego_35: 770965326915873346
+      Bola de fuego_36: 5979160242516709359
+      Bola de fuego_37: 5288089306431091626
+      Bola de fuego_38: -5237464043019752387
+      Bola de fuego_39: 2241927082202442168
+      Bola de fuego_4: 2089115070780349729
+      Bola de fuego_40: -1303295362095243259
+      Bola de fuego_41: 1728971902297856051
+      Bola de fuego_42: -6714621130152671338
+      Bola de fuego_43: -5008877542906851851
+      Bola de fuego_44: -8077956141238889759
+      Bola de fuego_45: -5968246811186968619
+      Bola de fuego_46: -8902045709407333588
+      Bola de fuego_47: 1147444019566640217
+      Bola de fuego_48: -2999967561741888389
+      Bola de fuego_49: 616349981414459711
+      Bola de fuego_5: 2569076829817237101
+      Bola de fuego_50: 3001541668459734220
+      Bola de fuego_51: -1753647482014885921
+      Bola de fuego_52: 3306790750295860889
+      Bola de fuego_53: 4034503818794188817
+      Bola de fuego_54: -2812835413806553240
+      Bola de fuego_55: -9210788669302659275
+      Bola de fuego_56: -7259063850516738249
+      Bola de fuego_57: 8095064876397950204
+      Bola de fuego_58: 1432960161297891570
+      Bola de fuego_59: 2863540117739602044
+      Bola de fuego_6: 4425647336756904440
+      Bola de fuego_60: 8387817257408584382
+      Bola de fuego_61: -7837714845546642405
+      Bola de fuego_62: 2540078230549260174
+      Bola de fuego_63: -6270075947787086766
+      Bola de fuego_64: 7336333073630766657
+      Bola de fuego_65: 4335223102832316443
+      Bola de fuego_66: -7189651297516082466
+      Bola de fuego_67: 8851995365193416960
+      Bola de fuego_68: 7868603812133387583
+      Bola de fuego_69: -2214847884839336587
+      Bola de fuego_7: -6852214203697172205
+      Bola de fuego_70: -1390069276634647078
+      Bola de fuego_71: 6602852338786187199
+      Bola de fuego_72: -4353903307465770013
+      Bola de fuego_73: -5775246638598917440
+      Bola de fuego_74: 6291061545942020372
+      Bola de fuego_75: -9125552046267152770
+      Bola de fuego_76: 6781685180326443045
+      Bola de fuego_77: 4797015048936686924
+      Bola de fuego_78: -8023833493625421480
+      Bola de fuego_79: -4641404999189718165
+      Bola de fuego_8: -2475129117137018795
+      Bola de fuego_80: -6096874768345508560
+      Bola de fuego_81: 1455070663284953320
+      Bola de fuego_82: 1795673649919267876
+      Bola de fuego_83: 2012757139666616733
+      Bola de fuego_84: 2252894557979549602
+      Bola de fuego_85: -7803785981509788651
+      Bola de fuego_86: -8815081488909525700
+      Bola de fuego_87: 1445582697858106789
+      Bola de fuego_88: -1880875169530238150
+      Bola de fuego_89: -4274683291225417043
+      Bola de fuego_9: 1540069482041252696
+      Bola de fuego_90: 8510719526567869440
+      Bola de fuego_91: -7143610100078605524
+      Bola de fuego_92: -4305608320738714896
+      Bola de fuego_93: -6632773299373112735
+      Bola de fuego_94: -465784945406682222
+      Bola de fuego_95: 8402158780306383158
+      Bola de fuego_96: -8109123748646106178
+      Bola de fuego_97: 932467823044833349
+      Bola de fuego_98: -327923723117475390
+      Bola de fuego_99: -1645168140788920478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

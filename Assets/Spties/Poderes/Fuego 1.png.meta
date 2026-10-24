@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 4cf83d1c88e457f418f99a282569ce39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5789067072812858007
+    second: Fuego 1_0
+  - first:
+      213: 2360091795247746035
+    second: Fuego 1_1
+  - first:
+      213: -3217644577877368596
+    second: Fuego 1_2
+  - first:
+      213: 8795190838543265685
+    second: Fuego 1_3
+  - first:
+      213: -7980515162092463431
+    second: Fuego 1_4
+  - first:
+      213: -4471978742885633889
+    second: Fuego 1_5
+  - first:
+      213: 2291418400210898697
+    second: Fuego 1_6
+  - first:
+      213: -2148563187404048589
+    second: Fuego 1_7
+  - first:
+      213: 5058638485336423387
+    second: Fuego 1_8
+  - first:
+      213: -2767513449449329618
+    second: Fuego 1_9
+  - first:
+      213: 5930670545856440120
+    second: Fuego 1_10
+  - first:
+      213: 1128305203750940747
+    second: Fuego 1_11
+  - first:
+      213: -2453498178498301556
+    second: Fuego 1_12
+  - first:
+      213: -14812427554156685
+    second: Fuego 1_13
+  - first:
+      213: 2783047648793400902
+    second: Fuego 1_14
+  - first:
+      213: 2582514992415646776
+    second: Fuego 1_15
+  - first:
+      213: -6992140398204486440
+    second: Fuego 1_16
+  - first:
+      213: -7402736250960413027
+    second: Fuego 1_17
+  - first:
+      213: -3938576752862730312
+    second: Fuego 1_18
+  - first:
+      213: 4505394261476337824
+    second: Fuego 1_19
+  - first:
+      213: -8499513294740179529
+    second: Fuego 1_20
+  - first:
+      213: 7158301104140074914
+    second: Fuego 1_21
+  - first:
+      213: -6146672019029222448
+    second: Fuego 1_22
+  - first:
+      213: -6323901506677760199
+    second: Fuego 1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fuego 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1907
+        height: 1912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79abbe7b4d5e65050800000000000000
+      internalID: 5789067072812858007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1887
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb4e05cbfab0c020800000000000000
+      internalID: 2360091795247746035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_2
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1879
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce06822ed41a853d0800000000000000
+      internalID: -3217644577877368596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1705
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f242ff77bce0a70800000000000000
+      internalID: 8795190838543265685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1639
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba1cde1eb38f3190800000000000000
+      internalID: -7980515162092463431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1639
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f903433e60750f1c0800000000000000
+      internalID: -4471978742885633889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1607
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f4d5005e0cccf10800000000000000
+      internalID: 2291418400210898697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1383
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337fc452a25ce22e0800000000000000
+      internalID: -2148563187404048589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_8
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1117
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf89d86e4e33640800000000000000
+      internalID: 5058638485336423387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1067
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ce47e3e21d799d0800000000000000
+      internalID: -2767513449449329618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 988
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83725ad7079fd4250800000000000000
+      internalID: 5930670545856440120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_11
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 663
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40bcc3da9b88af00800000000000000
+      internalID: 1128305203750940747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_12
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 645
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c817a85e76c63fdd0800000000000000
+      internalID: -2453498178498301556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_13
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 630
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f8f55fc206bcff0800000000000000
+      internalID: -14812427554156685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_14
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 599
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6461153671f5f9620800000000000000
+      internalID: 2783047648793400902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_15
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 607
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8342e0ee3bfe6d320800000000000000
+      internalID: 2582514992415646776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_16
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 575
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcfc519a5de6fe90800000000000000
+      internalID: -6992140398204486440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 375
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ef893e992344990800000000000000
+      internalID: -7402736250960413027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_18
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 263
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7610d8f4d5759c0800000000000000
+      internalID: -3938576752862730312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 151
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a86160d530668e30800000000000000
+      internalID: 4505394261476337824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_20
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b53d47d0b9ab0a80800000000000000
+      internalID: -8499513294740179529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 87
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af3e8b8de4675360800000000000000
+      internalID: 7158301104140074914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_22
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 20
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db1eea7d52a2baa0800000000000000
+      internalID: -6146672019029222448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego 1_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f1aebc51dfc38a0800000000000000
+      internalID: -6323901506677760199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fuego 1_0: 5789067072812858007
+      Fuego 1_1: 2360091795247746035
+      Fuego 1_10: 5930670545856440120
+      Fuego 1_11: 1128305203750940747
+      Fuego 1_12: -2453498178498301556
+      Fuego 1_13: -14812427554156685
+      Fuego 1_14: 2783047648793400902
+      Fuego 1_15: 2582514992415646776
+      Fuego 1_16: -6992140398204486440
+      Fuego 1_17: -7402736250960413027
+      Fuego 1_18: -3938576752862730312
+      Fuego 1_19: 4505394261476337824
+      Fuego 1_2: -3217644577877368596
+      Fuego 1_20: -8499513294740179529
+      Fuego 1_21: 7158301104140074914
+      Fuego 1_22: -6146672019029222448
+      Fuego 1_23: -6323901506677760199
+      Fuego 1_3: 8795190838543265685
+      Fuego 1_4: -7980515162092463431
+      Fuego 1_5: -4471978742885633889
+      Fuego 1_6: 2291418400210898697
+      Fuego 1_7: -2148563187404048589
+      Fuego 1_8: 5058638485336423387
+      Fuego 1_9: -2767513449449329618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
