@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 8b662bc8a977e2d4b963188134f5d925
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1668588492761903283
+    second: PIEDRA CAMINANDO_0
+  - first:
+      213: -6323133825714884603
+    second: PIEDRA CAMINANDO_1
+  - first:
+      213: -7165413076421692363
+    second: PIEDRA CAMINANDO_2
+  - first:
+      213: -4257364553348978394
+    second: PIEDRA CAMINANDO_3
+  - first:
+      213: 7385636159157514020
+    second: PIEDRA CAMINANDO_4
+  - first:
+      213: -7723510041054012539
+    second: PIEDRA CAMINANDO_5
+  - first:
+      213: 9038648545175555059
+    second: PIEDRA CAMINANDO_6
+  - first:
+      213: 5679325078955437946
+    second: PIEDRA CAMINANDO_7
+  - first:
+      213: 4954674146673356330
+    second: PIEDRA CAMINANDO_8
+  - first:
+      213: 7967632368354944905
+    second: PIEDRA CAMINANDO_9
+  - first:
+      213: -8649068716583844692
+    second: PIEDRA CAMINANDO_10
+  - first:
+      213: -4247197982601010307
+    second: PIEDRA CAMINANDO_11
+  - first:
+      213: -6609702846364135735
+    second: PIEDRA CAMINANDO_12
+  - first:
+      213: -2904647350250703989
+    second: PIEDRA CAMINANDO_13
+  - first:
+      213: -9008871196206934991
+    second: PIEDRA CAMINANDO_14
+  - first:
+      213: 1735452642490752715
+    second: PIEDRA CAMINANDO_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PIEDRA CAMINANDO_0
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 51
+        width: 158
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0b063c464082710800000000000000
+      internalID: 1668588492761903283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA CAMINANDO_1
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 33
+        width: 194
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500f1037947bf38a0800000000000000
+      internalID: -6323133825714884603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA CAMINANDO_2
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 41
+        width: 201
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53432fe55c65f8c90800000000000000
+      internalID: -7165413076421692363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA CAMINANDO_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 25
+        width: 156
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6296b46ce7dcae4c0800000000000000
+      internalID: -4257364553348978394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA CAMINANDO_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 35
+        width: 201
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f2ddab4fc0f7660800000000000000
+      internalID: 7385636159157514020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA CAMINANDO_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 35
+        width: 182
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b10dfd98490d490800000000000000
+      internalID: -7723510041054012539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA CAMINANDO_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 149
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb4ac886fabf6d70800000000000000
+      internalID: 9038648545175555059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3205612f93645544a80afeb92d3da344
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PIEDRA CAMINANDO_0: 1668588492761903283
+      PIEDRA CAMINANDO_1: -6323133825714884603
+      PIEDRA CAMINANDO_10: -8649068716583844692
+      PIEDRA CAMINANDO_11: -4247197982601010307
+      PIEDRA CAMINANDO_12: -6609702846364135735
+      PIEDRA CAMINANDO_13: -2904647350250703989
+      PIEDRA CAMINANDO_14: -9008871196206934991
+      PIEDRA CAMINANDO_15: 1735452642490752715
+      PIEDRA CAMINANDO_2: -7165413076421692363
+      PIEDRA CAMINANDO_3: -4257364553348978394
+      PIEDRA CAMINANDO_4: 7385636159157514020
+      PIEDRA CAMINANDO_5: -7723510041054012539
+      PIEDRA CAMINANDO_6: 9038648545175555059
+      PIEDRA CAMINANDO_7: 5679325078955437946
+      PIEDRA CAMINANDO_8: 4954674146673356330
+      PIEDRA CAMINANDO_9: 7967632368354944905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

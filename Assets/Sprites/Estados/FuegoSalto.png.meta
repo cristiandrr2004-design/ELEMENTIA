@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 9461a8aa7fc3f544ab04312b30761b46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1755250913611552322
+    second: FuegoSalto_0
+  - first:
+      213: -3869235279430234826
+    second: FuegoSalto_1
+  - first:
+      213: 2104937833086225245
+    second: FuegoSalto_2
+  - first:
+      213: -7038639339792924684
+    second: FuegoSalto_3
+  - first:
+      213: 7235220138306448538
+    second: FuegoSalto_4
+  - first:
+      213: 2622911167264214915
+    second: FuegoSalto_5
+  - first:
+      213: -2403379251088310697
+    second: FuegoSalto_6
+  - first:
+      213: -1347162926812555068
+    second: FuegoSalto_7
+  - first:
+      213: -9073761530720350360
+    second: FuegoSalto_8
+  - first:
+      213: -2368594481108509846
+    second: FuegoSalto_9
+  - first:
+      213: -8145194203895883402
+    second: FuegoSalto_10
+  - first:
+      213: -725674771744235403
+    second: FuegoSalto_11
+  - first:
+      213: 4604964948205342148
+    second: FuegoSalto_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FuegoSalto_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2461f7df767eb5810800000000000000
+      internalID: 1755250913611552322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoSalto_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dc6217307bd4ac0800000000000000
+      internalID: -3869235279430234826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoSalto_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 10
+        width: 69
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b82678ecd363d10800000000000000
+      internalID: 2104937833086225245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoSalto_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 75
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff7d8110dab15e90800000000000000
+      internalID: -7038639339792924684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 359352ac8a42cd94f98d919ab4e19bd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FuegoSalto_0: 1755250913611552322
+      FuegoSalto_1: -3869235279430234826
+      FuegoSalto_10: -8145194203895883402
+      FuegoSalto_11: -725674771744235403
+      FuegoSalto_12: 4604964948205342148
+      FuegoSalto_2: 2104937833086225245
+      FuegoSalto_3: -7038639339792924684
+      FuegoSalto_4: 7235220138306448538
+      FuegoSalto_5: 2622911167264214915
+      FuegoSalto_6: -2403379251088310697
+      FuegoSalto_7: -1347162926812555068
+      FuegoSalto_8: -9073761530720350360
+      FuegoSalto_9: -2368594481108509846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: d28d8a0ca9e7f0f48ab90277b4fac256
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1830512460677867030
+    second: parallax_05_detalles_cercanos_0
+  - first:
+      213: -6685878850957497986
+    second: parallax_05_detalles_cercanos_1
+  - first:
+      213: 6173098849575430201
+    second: parallax_05_detalles_cercanos_2
+  - first:
+      213: -4459330353618806338
+    second: parallax_05_detalles_cercanos_3
+  - first:
+      213: 1745659829246828770
+    second: parallax_05_detalles_cercanos_4
+  - first:
+      213: -5700656793535428283
+    second: parallax_05_detalles_cercanos_5
+  - first:
+      213: -1723018323875638271
+    second: parallax_05_detalles_cercanos_6
+  - first:
+      213: -8878556568819887704
+    second: parallax_05_detalles_cercanos_7
+  - first:
+      213: -7041749653685320713
+    second: parallax_05_detalles_cercanos_8
+  - first:
+      213: -1180169844015148563
+    second: parallax_05_detalles_cercanos_9
+  - first:
+      213: 8563585023396597343
+    second: parallax_05_detalles_cercanos_10
+  - first:
+      213: 5719761450654584054
+    second: parallax_05_detalles_cercanos_11
+  - first:
+      213: 6725520150467397084
+    second: parallax_05_detalles_cercanos_12
+  - first:
+      213: 8598351198041234048
+    second: parallax_05_detalles_cercanos_13
+  - first:
+      213: 4327489267453367645
+    second: parallax_05_detalles_cercanos_14
+  - first:
+      213: 2959417577524395849
+    second: parallax_05_detalles_cercanos_15
+  - first:
+      213: 3009346798881226847
+    second: parallax_05_detalles_cercanos_16
+  - first:
+      213: -9186916319711523161
+    second: parallax_05_detalles_cercanos_17
+  - first:
+      213: 5481921746576699644
+    second: parallax_05_detalles_cercanos_18
+  - first:
+      213: -4146214924488479949
+    second: parallax_05_detalles_cercanos_19
+  - first:
+      213: -7474326048920334793
+    second: parallax_05_detalles_cercanos_20
+  - first:
+      213: -949848256272445083
+    second: parallax_05_detalles_cercanos_21
+  - first:
+      213: 8122386329660852767
+    second: parallax_05_detalles_cercanos_22
+  - first:
+      213: 3968331097652737953
+    second: parallax_05_detalles_cercanos_23
+  - first:
+      213: 1725562935376415767
+    second: parallax_05_detalles_cercanos_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parallax_05_detalles_cercanos_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 2683
+        height: 1152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61661af6269476910800000000000000
+      internalID: 1830512460677867030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2329e042570535e49ae610840b7ca290
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      parallax_05_detalles_cercanos_0: 1830512460677867030
+      parallax_05_detalles_cercanos_1: -6685878850957497986
+      parallax_05_detalles_cercanos_10: 8563585023396597343
+      parallax_05_detalles_cercanos_11: 5719761450654584054
+      parallax_05_detalles_cercanos_12: 6725520150467397084
+      parallax_05_detalles_cercanos_13: 8598351198041234048
+      parallax_05_detalles_cercanos_14: 4327489267453367645
+      parallax_05_detalles_cercanos_15: 2959417577524395849
+      parallax_05_detalles_cercanos_16: 3009346798881226847
+      parallax_05_detalles_cercanos_17: -9186916319711523161
+      parallax_05_detalles_cercanos_18: 5481921746576699644
+      parallax_05_detalles_cercanos_19: -4146214924488479949
+      parallax_05_detalles_cercanos_2: 6173098849575430201
+      parallax_05_detalles_cercanos_20: -7474326048920334793
+      parallax_05_detalles_cercanos_21: -949848256272445083
+      parallax_05_detalles_cercanos_22: 8122386329660852767
+      parallax_05_detalles_cercanos_23: 3968331097652737953
+      parallax_05_detalles_cercanos_24: 1725562935376415767
+      parallax_05_detalles_cercanos_3: -4459330353618806338
+      parallax_05_detalles_cercanos_4: 1745659829246828770
+      parallax_05_detalles_cercanos_5: -5700656793535428283
+      parallax_05_detalles_cercanos_6: -1723018323875638271
+      parallax_05_detalles_cercanos_7: -8878556568819887704
+      parallax_05_detalles_cercanos_8: -7041749653685320713
+      parallax_05_detalles_cercanos_9: -1180169844015148563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

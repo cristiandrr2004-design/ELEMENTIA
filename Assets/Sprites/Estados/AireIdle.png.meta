@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 60dee188cd32a0c488ed1728033d1278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2172154065648194170
+    second: AireIdle_0
+  - first:
+      213: -1717750436473970907
+    second: AireIdle_1
+  - first:
+      213: 7486374159430604977
+    second: AireIdle_2
+  - first:
+      213: -7451139731041253992
+    second: AireIdle_3
+  - first:
+      213: 1312370644684912646
+    second: AireIdle_4
+  - first:
+      213: 3614395772190449380
+    second: AireIdle_5
+  - first:
+      213: -7442147761221328269
+    second: AireIdle_6
+  - first:
+      213: -4459512116576861343
+    second: AireIdle_7
+  - first:
+      213: 7967132200355765420
+    second: AireIdle_8
+  - first:
+      213: -950668558849425533
+    second: AireIdle_9
+  - first:
+      213: 2906408883239720621
+    second: AireIdle_10
+  - first:
+      213: 6350911506682683090
+    second: AireIdle_11
+  - first:
+      213: -5354043944972030375
+    second: AireIdle_12
+  - first:
+      213: 3360107884353185927
+    second: AireIdle_13
+  - first:
+      213: 5009152000369116024
+    second: AireIdle_14
+  - first:
+      213: 2010783279374525706
+    second: AireIdle_15
+  - first:
+      213: 1518971070042527891
+    second: AireIdle_16
+  - first:
+      213: 1206340944038134226
+    second: AireIdle_17
+  - first:
+      213: 6366284016565613418
+    second: AireIdle_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AireIdle_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 205
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de13c3ed58f22850800000000000000
+      internalID: 6350911506682683090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AireIdle_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 276
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7886cd5715081ae20800000000000000
+      internalID: 3360107884353185927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AireIdle_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 11
+        width: 252
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87340f76435148540800000000000000
+      internalID: 5009152000369116024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AireIdle_15
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 9
+        width: 247
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05e96f2dbcb7eb10800000000000000
+      internalID: 2010783279374525706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AireIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 11
+        width: 231
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398dafde328741510800000000000000
+      internalID: 1518971070042527891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AireIdle_17
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 220
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1076772b8cdb010800000000000000
+      internalID: 1206340944038134226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a73365a1df3dd8541a9adcb39516dd21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AireIdle_0: 2172154065648194170
+      AireIdle_1: -1717750436473970907
+      AireIdle_10: 2906408883239720621
+      AireIdle_11: 6350911506682683090
+      AireIdle_12: -5354043944972030375
+      AireIdle_13: 3360107884353185927
+      AireIdle_14: 5009152000369116024
+      AireIdle_15: 2010783279374525706
+      AireIdle_16: 1518971070042527891
+      AireIdle_17: 1206340944038134226
+      AireIdle_18: 6366284016565613418
+      AireIdle_2: 7486374159430604977
+      AireIdle_3: -7451139731041253992
+      AireIdle_4: 1312370644684912646
+      AireIdle_5: 3614395772190449380
+      AireIdle_6: -7442147761221328269
+      AireIdle_7: -4459512116576861343
+      AireIdle_8: 7967132200355765420
+      AireIdle_9: -950668558849425533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: a9b752890862c554f863c89ec8feb059
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 344920484005352614
+    second: FuegoCaida_0
+  - first:
+      213: -6132807066409311284
+    second: FuegoCaida_1
+  - first:
+      213: -7807530663618902729
+    second: FuegoCaida_2
+  - first:
+      213: -2048138376414364407
+    second: FuegoCaida_3
+  - first:
+      213: -8415749571469413480
+    second: FuegoCaida_4
+  - first:
+      213: -1158985024275157794
+    second: FuegoCaida_5
+  - first:
+      213: -1552463385077706069
+    second: FuegoCaida_6
+  - first:
+      213: 3697666997519517354
+    second: FuegoCaida_7
+  - first:
+      213: 3240415362109612010
+    second: FuegoCaida_8
+  - first:
+      213: -7602060276999604013
+    second: FuegoCaida_9
+  - first:
+      213: 474345740397942570
+    second: FuegoCaida_10
+  - first:
+      213: -4115761007186102306
+    second: FuegoCaida_11
+  - first:
+      213: 8863544260079580934
+    second: FuegoCaida_12
+  - first:
+      213: 5461780376974269623
+    second: FuegoCaida_13
+  - first:
+      213: 4849681384557049579
+    second: FuegoCaida_14
+  - first:
+      213: -5658290901594847568
+    second: FuegoCaida_15
+  - first:
+      213: -7961779877833186870
+    second: FuegoCaida_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FuegoCaida_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 22
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a415ec4a5769c400800000000000000
+      internalID: 344920484005352614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoCaida_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 20
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3eaa25774e3eaa0800000000000000
+      internalID: -6132807066409311284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoCaida_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba294adc6ca847ae0800000000000000
+      internalID: -1552463385077706069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoCaida_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 17
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa606dc0b80c05330800000000000000
+      internalID: 3697666997519517354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d675d3567e56dff4bb9106924b6ad92d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FuegoCaida_0: 344920484005352614
+      FuegoCaida_1: -6132807066409311284
+      FuegoCaida_10: 474345740397942570
+      FuegoCaida_11: -4115761007186102306
+      FuegoCaida_12: 8863544260079580934
+      FuegoCaida_13: 5461780376974269623
+      FuegoCaida_14: 4849681384557049579
+      FuegoCaida_15: -5658290901594847568
+      FuegoCaida_16: -7961779877833186870
+      FuegoCaida_2: -7807530663618902729
+      FuegoCaida_3: -2048138376414364407
+      FuegoCaida_4: -8415749571469413480
+      FuegoCaida_5: -1158985024275157794
+      FuegoCaida_6: -1552463385077706069
+      FuegoCaida_7: 3697666997519517354
+      FuegoCaida_8: 3240415362109612010
+      FuegoCaida_9: -7602060276999604013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

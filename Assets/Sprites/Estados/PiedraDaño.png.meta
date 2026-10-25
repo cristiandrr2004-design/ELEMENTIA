@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: fa8f995cf09e7a947a53722c6a5c5961
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4942886933028080503
+    second: "PIEDRA DA\xD1O_0"
+  - first:
+      213: 934920539612057756
+    second: "PIEDRA DA\xD1O_1"
+  - first:
+      213: 7677167067522205653
+    second: "PIEDRA DA\xD1O_2"
+  - first:
+      213: 4486163044417558431
+    second: "PIEDRA DA\xD1O_3"
+  - first:
+      213: 8822636697355952067
+    second: "PIEDRA DA\xD1O_4"
+  - first:
+      213: -9015318686862196139
+    second: "PIEDRA DA\xD1O_5"
+  - first:
+      213: 5321011846922006363
+    second: "PIEDRA DA\xD1O_6"
+  - first:
+      213: -2541076990687931117
+    second: "PIEDRA DA\xD1O_7"
+  - first:
+      213: -3827612254830172338
+    second: "PIEDRA DA\xD1O_8"
+  - first:
+      213: -8091134158295051121
+    second: "PIEDRA DA\xD1O_9"
+  - first:
+      213: 381038940180417523
+    second: "PIEDRA DA\xD1O_10"
+  - first:
+      213: -135647966777816248
+    second: "PIEDRA DA\xD1O_11"
+  - first:
+      213: 1004265265310564885
+    second: "PIEDRA DA\xD1O_12"
+  - first:
+      213: -7283289680504397802
+    second: "PIEDRA DA\xD1O_13"
+  - first:
+      213: 5935294823774135376
+    second: "PIEDRA DA\xD1O_14"
+  - first:
+      213: 3859978144361330638
+    second: "PIEDRA DA\xD1O_15"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "PIEDRA DA\xD1O_0"
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 49
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984f0ffd586576bb0800000000000000
+      internalID: -4942886933028080503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "PIEDRA DA\xD1O_6"
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 48
+        width: 191
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f6e65351808d940800000000000000
+      internalID: 5321011846922006363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "PIEDRA DA\xD1O_8"
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 49
+        width: 217
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e476aec0fe691eac0800000000000000
+      internalID: -3827612254830172338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "PIEDRA DA\xD1O_9"
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 49
+        width: 181
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f845bc80a5486bf80800000000000000
+      internalID: -8091134158295051121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "PIEDRA DA\xD1O_10"
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 49
+        width: 180
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb8b03b5e8b94500800000000000000
+      internalID: 381038940180417523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b7ad9c48eceabc24489c73d0ac46f59f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "PIEDRA DA\xD1O_0": -4942886933028080503
+      "PIEDRA DA\xD1O_1": 934920539612057756
+      "PIEDRA DA\xD1O_10": 381038940180417523
+      "PIEDRA DA\xD1O_11": -135647966777816248
+      "PIEDRA DA\xD1O_12": 1004265265310564885
+      "PIEDRA DA\xD1O_13": -7283289680504397802
+      "PIEDRA DA\xD1O_14": 5935294823774135376
+      "PIEDRA DA\xD1O_15": 3859978144361330638
+      "PIEDRA DA\xD1O_2": 7677167067522205653
+      "PIEDRA DA\xD1O_3": 4486163044417558431
+      "PIEDRA DA\xD1O_4": 8822636697355952067
+      "PIEDRA DA\xD1O_5": -9015318686862196139
+      "PIEDRA DA\xD1O_6": 5321011846922006363
+      "PIEDRA DA\xD1O_7": -2541076990687931117
+      "PIEDRA DA\xD1O_8": -3827612254830172338
+      "PIEDRA DA\xD1O_9": -8091134158295051121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

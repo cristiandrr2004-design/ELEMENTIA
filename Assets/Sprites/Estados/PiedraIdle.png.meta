@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 0aa7a378fed7ece48923fc97e3e9a43e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5386245886651371447
+    second: PIEDRA IDLE_0
+  - first:
+      213: -93838734373106310
+    second: PIEDRA IDLE_1
+  - first:
+      213: -472856704175996866
+    second: PIEDRA IDLE_2
+  - first:
+      213: 5009354023613915431
+    second: PIEDRA IDLE_3
+  - first:
+      213: -6345510706832542620
+    second: PIEDRA IDLE_4
+  - first:
+      213: -4683815989497964140
+    second: PIEDRA IDLE_5
+  - first:
+      213: -2632933515641921895
+    second: PIEDRA IDLE_6
+  - first:
+      213: -3814616053444320862
+    second: PIEDRA IDLE_7
+  - first:
+      213: -5271611020320124779
+    second: PIEDRA IDLE_8
+  - first:
+      213: -3336601084640693316
+    second: PIEDRA IDLE_9
+  - first:
+      213: 1438633309948593568
+    second: PIEDRA IDLE_10
+  - first:
+      213: -5857165772130753208
+    second: PIEDRA IDLE_11
+  - first:
+      213: -6469011995293136970
+    second: PIEDRA IDLE_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PIEDRA IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 87
+        width: 180
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf83caa81acfba40800000000000000
+      internalID: 5386245886651371447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 85
+        width: 195
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e308de535531079f0800000000000000
+      internalID: -472856704175996866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 87
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464fec0d1a730f7a0800000000000000
+      internalID: -6345510706832542620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 86
+        width: 162
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e51fadae0f57bd0800000000000000
+      internalID: -2632933515641921895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 85
+        width: 191
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1e2fbf8e2cf0bc0800000000000000
+      internalID: -3814616053444320862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 85
+        width: 216
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590d8cb05b977d6b0800000000000000
+      internalID: -5271611020320124779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIEDRA IDLE_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 23
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7cfc45dd37936a0800000000000000
+      internalID: -6469011995293136970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 94930b41200dc0e4d99131b57fe25e86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PIEDRA IDLE_0: 5386245886651371447
+      PIEDRA IDLE_1: -93838734373106310
+      PIEDRA IDLE_10: 1438633309948593568
+      PIEDRA IDLE_11: -5857165772130753208
+      PIEDRA IDLE_12: -6469011995293136970
+      PIEDRA IDLE_2: -472856704175996866
+      PIEDRA IDLE_3: 5009354023613915431
+      PIEDRA IDLE_4: -6345510706832542620
+      PIEDRA IDLE_5: -4683815989497964140
+      PIEDRA IDLE_6: -2632933515641921895
+      PIEDRA IDLE_7: -3814616053444320862
+      PIEDRA IDLE_8: -5271611020320124779
+      PIEDRA IDLE_9: -3336601084640693316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

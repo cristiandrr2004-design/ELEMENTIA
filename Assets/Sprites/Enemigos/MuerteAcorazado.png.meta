@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: d4236fe833e2d2a43873e33fc7d275c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7288176380502561410
+    second: MuerteAcorazado_0
+  - first:
+      213: 8052062313616881461
+    second: MuerteAcorazado_1
+  - first:
+      213: -2946804994553115646
+    second: MuerteAcorazado_2
+  - first:
+      213: 504543672251731761
+    second: MuerteAcorazado_3
+  - first:
+      213: -2740695806524962917
+    second: MuerteAcorazado_4
+  - first:
+      213: -7732330194243455145
+    second: MuerteAcorazado_5
+  - first:
+      213: 6319902474546718732
+    second: MuerteAcorazado_6
+  - first:
+      213: 613573772691909752
+    second: MuerteAcorazado_7
+  - first:
+      213: 2290786594600667819
+    second: MuerteAcorazado_8
+  - first:
+      213: -3248870732313159717
+    second: MuerteAcorazado_9
+  - first:
+      213: -2703279123586156460
+    second: MuerteAcorazado_10
+  - first:
+      213: 8764739224181482881
+    second: MuerteAcorazado_11
+  - first:
+      213: 4328015962197341888
+    second: MuerteAcorazado_12
+  - first:
+      213: 7713200732743175517
+    second: MuerteAcorazado_13
+  - first:
+      213: 5914174178204425827
+    second: MuerteAcorazado_14
+  - first:
+      213: -3792370718845711624
+    second: MuerteAcorazado_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MuerteAcorazado_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2825f3cbdcdc42560800000000000000
+      internalID: 7288176380502561410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuerteAcorazado_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3
+        width: 148
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537b178330caebf60800000000000000
+      internalID: 8052062313616881461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuerteAcorazado_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c80556878da17d0800000000000000
+      internalID: -2946804994553115646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuerteAcorazado_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3
+        width: 147
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f4c36fbcf700700800000000000000
+      internalID: 504543672251731761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuerteAcorazado_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3
+        width: 176
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185254603eb92a970800000000000000
+      internalID: 8764739224181482881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuerteAcorazado_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 167
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8facb9e8ceace5bc0800000000000000
+      internalID: -3792370718845711624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c3d6c2d8039b2a4fbcfb644f312f881
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MuerteAcorazado_0: 7288176380502561410
+      MuerteAcorazado_1: 8052062313616881461
+      MuerteAcorazado_10: -2703279123586156460
+      MuerteAcorazado_11: 8764739224181482881
+      MuerteAcorazado_12: 4328015962197341888
+      MuerteAcorazado_13: 7713200732743175517
+      MuerteAcorazado_14: 5914174178204425827
+      MuerteAcorazado_15: -3792370718845711624
+      MuerteAcorazado_2: -2946804994553115646
+      MuerteAcorazado_3: 504543672251731761
+      MuerteAcorazado_4: -2740695806524962917
+      MuerteAcorazado_5: -7732330194243455145
+      MuerteAcorazado_6: 6319902474546718732
+      MuerteAcorazado_7: 613573772691909752
+      MuerteAcorazado_8: 2290786594600667819
+      MuerteAcorazado_9: -3248870732313159717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

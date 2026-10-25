@@ -18,7 +18,7 @@ public class BolaFuego : MonoBehaviour
 
         Enemigos enemigo = otro.GetComponent<Enemigos>();
         if (enemigo != null && !enemigo.acorazado)
-            Destroy(otro.gameObject);            // enemigo normal: muere
+            enemigo.Morir();                     // enemigo normal: muere con animacion
 
         Destroy(gameObject);                     // la bola se rompe (piso, pared o acorazado)
     }

@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 932438cb6b14d4a41951869cd52fbcc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6500019552321718029
+    second: FuegoCaminando_0
+  - first:
+      213: 4149355545017669551
+    second: FuegoCaminando_1
+  - first:
+      213: 2905256731440886983
+    second: FuegoCaminando_2
+  - first:
+      213: -3821399281546007587
+    second: FuegoCaminando_3
+  - first:
+      213: -5848345264369417199
+    second: FuegoCaminando_4
+  - first:
+      213: -8363554365063605297
+    second: FuegoCaminando_5
+  - first:
+      213: 4941337445451113245
+    second: FuegoCaminando_6
+  - first:
+      213: -7540047123929967004
+    second: FuegoCaminando_7
+  - first:
+      213: 2943781917252834210
+    second: FuegoCaminando_8
+  - first:
+      213: 3568422963480287680
+    second: FuegoCaminando_9
+  - first:
+      213: -2762683896328365261
+    second: FuegoCaminando_10
+  - first:
+      213: 716514032067896559
+    second: FuegoCaminando_11
+  - first:
+      213: 393962765034912610
+    second: FuegoCaminando_12
+  - first:
+      213: -2753836824684713839
+    second: FuegoCaminando_13
+  - first:
+      213: -5539623098149972347
+    second: FuegoCaminando_14
+  - first:
+      213: 3495585001479350688
+    second: FuegoCaminando_15
+  - first:
+      213: 3260477911986534359
+    second: FuegoCaminando_16
+  - first:
+      213: 8862822796416093868
+    second: FuegoCaminando_17
+  - first:
+      213: -3863198186443589354
+    second: FuegoCaminando_18
+  - first:
+      213: -1673069507585186
+    second: FuegoCaminando_19
+  - first:
+      213: -8099392668854895469
+    second: FuegoCaminando_20
+  - first:
+      213: 489233080597697868
+    second: FuegoCaminando_21
+  - first:
+      213: -2401352813123196922
+    second: FuegoCaminando_22
+  - first:
+      213: -3011575326577548962
+    second: FuegoCaminando_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FuegoCaminando_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07ca312855b43a50800000000000000
+      internalID: 6500019552321718029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoCaminando_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 12
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7539b42e8759930800000000000000
+      internalID: 4149355545017669551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoCaminando_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 11
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4b8d2ca9b815820800000000000000
+      internalID: 2905256731440886983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoCaminando_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 9
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb648e9999a7fac0800000000000000
+      internalID: -3821399281546007587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoCaminando_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 10
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1144c69c7f086dea0800000000000000
+      internalID: -5848345264369417199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuegoCaminando_5
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 11
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc357b2fd9faeeb80800000000000000
+      internalID: -8363554365063605297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 58e9444037a52304eb83cc39f70c170c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FuegoCaminando_0: 6500019552321718029
+      FuegoCaminando_1: 4149355545017669551
+      FuegoCaminando_10: -2762683896328365261
+      FuegoCaminando_11: 716514032067896559
+      FuegoCaminando_12: 393962765034912610
+      FuegoCaminando_13: -2753836824684713839
+      FuegoCaminando_14: -5539623098149972347
+      FuegoCaminando_15: 3495585001479350688
+      FuegoCaminando_16: 3260477911986534359
+      FuegoCaminando_17: 8862822796416093868
+      FuegoCaminando_18: -3863198186443589354
+      FuegoCaminando_19: -1673069507585186
+      FuegoCaminando_2: 2905256731440886983
+      FuegoCaminando_20: -8099392668854895469
+      FuegoCaminando_21: 489233080597697868
+      FuegoCaminando_22: -2401352813123196922
+      FuegoCaminando_23: -3011575326577548962
+      FuegoCaminando_3: -3821399281546007587
+      FuegoCaminando_4: -5848345264369417199
+      FuegoCaminando_5: -8363554365063605297
+      FuegoCaminando_6: 4941337445451113245
+      FuegoCaminando_7: -7540047123929967004
+      FuegoCaminando_8: 2943781917252834210
+      FuegoCaminando_9: 3568422963480287680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

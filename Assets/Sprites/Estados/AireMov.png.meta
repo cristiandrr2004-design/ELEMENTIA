@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 7ca3d1a47024bcb46929f013d251f89f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1338135408071647563
+    second: AireMov_0
+  - first:
+      213: 1270937853936653380
+    second: AireMov_1
+  - first:
+      213: 1211723619558936484
+    second: AireMov_2
+  - first:
+      213: -5303084269488669675
+    second: AireMov_3
+  - first:
+      213: 729522122104836132
+    second: AireMov_4
+  - first:
+      213: 4199216638860869481
+    second: AireMov_5
+  - first:
+      213: -5496323600027326917
+    second: AireMov_6
+  - first:
+      213: 5080225666216766868
+    second: AireMov_7
+  - first:
+      213: 9056883745587744797
+    second: AireMov_8
+  - first:
+      213: 4569317111711124660
+    second: AireMov_9
+  - first:
+      213: -2181324197473748667
+    second: AireMov_10
+  - first:
+      213: 3756462047860702005
+    second: AireMov_11
+  - first:
+      213: 4775733468686199840
+    second: AireMov_12
+  - first:
+      213: 2138475346793593511
+    second: AireMov_13
+  - first:
+      213: 9169822540813657839
+    second: AireMov_14
+  - first:
+      213: -6219835264879882599
+    second: AireMov_15
+  - first:
+      213: -7408039182742281558
+    second: AireMov_16
+  - first:
+      213: -6318768128824958008
+    second: AireMov_17
+  - first:
+      213: -9016075398148966888
+    second: AireMov_18
+  - first:
+      213: -4869351662474477299
+    second: AireMov_19
+  - first:
+      213: -6974518574373901757
+    second: AireMov_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AireMov_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 252
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5484afecfd6de0800000000000000
+      internalID: -1338135408071647563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AireMov_4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 36
+        width: 270
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42019df3188cf1a00800000000000000
+      internalID: 729522122104836132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AireMov_12
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 36
+        width: 282
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2cfe6940d64240800000000000000
+      internalID: 4775733468686199840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 31e2c852f8d2fcb459e5cae0e08b2c52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AireMov_0: -1338135408071647563
+      AireMov_1: 1270937853936653380
+      AireMov_10: -2181324197473748667
+      AireMov_11: 3756462047860702005
+      AireMov_12: 4775733468686199840
+      AireMov_13: 2138475346793593511
+      AireMov_14: 9169822540813657839
+      AireMov_15: -6219835264879882599
+      AireMov_16: -7408039182742281558
+      AireMov_17: -6318768128824958008
+      AireMov_18: -9016075398148966888
+      AireMov_19: -4869351662474477299
+      AireMov_2: 1211723619558936484
+      AireMov_20: -6974518574373901757
+      AireMov_3: -5303084269488669675
+      AireMov_4: 729522122104836132
+      AireMov_5: 4199216638860869481
+      AireMov_6: -5496323600027326917
+      AireMov_7: 5080225666216766868
+      AireMov_8: 9056883745587744797
+      AireMov_9: 4569317111711124660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

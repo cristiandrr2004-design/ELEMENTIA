@@ -10,7 +10,13 @@ public class Jugador : MonoBehaviour
     [Header("Forma actual")]
     public Forma forma = Forma.Rosa;
 
-    [Header("Color de cada forma")]
+    [Header("Animaciones de cada forma (Animator Controller)")]
+    public RuntimeAnimatorController animRosa;
+    public RuntimeAnimatorController animFuego;
+    public RuntimeAnimatorController animPiedra;
+    public RuntimeAnimatorController animAire;
+
+    [Header("Color de cada forma (solo si esa forma no tiene animacion)")]
     public Color colorRosa = Color.white;                    // blanco = el color original del sprite
     public Color colorFuego = new Color(1f, 0.5f, 0.1f);     // naranja
     public Color colorPiedra = new Color(0.55f, 0.55f, 0.55f); // gris
@@ -80,7 +86,8 @@ public class Jugador : MonoBehaviour
         if (animator != null)
         {
             animator.SetBool("Movimiento", x != 0);
-            animator.SetBool("SALTO", !enSuelo);
+            animator.SetBool("EnSuelo", enSuelo);
+            animator.SetFloat("VelY", rb.linearVelocity.y);
         }
 
         // Parpadeo mientras es invencible
@@ -109,11 +116,24 @@ public class Jugador : MonoBehaviour
     {
         forma = nueva;
         if (sprite == null) sprite = GetComponent<SpriteRenderer>();
+        if (animator == null) animator = GetComponent<Animator>();
 
-        if (forma == Forma.Rosa) sprite.color = colorRosa;
-        if (forma == Forma.Fuego) sprite.color = colorFuego;
-        if (forma == Forma.Piedra) sprite.color = colorPiedra;
-        if (forma == Forma.Aire) sprite.color = colorAire;
+        // Elegir las animaciones y el color de la forma nueva
+        RuntimeAnimatorController anim = animRosa;
+        Color color = colorRosa;
+        if (forma == Forma.Fuego) { anim = animFuego; color = colorFuego; }
+        if (forma == Forma.Piedra) { anim = animPiedra; color = colorPiedra; }
+        if (forma == Forma.Aire) { anim = animAire; color = colorAire; }
+
+        if (anim != null && animator != null)
+        {
+            animator.runtimeAnimatorController = anim;   // cambia todas las animaciones de una vez
+            sprite.color = Color.white;                  // con animacion propia no hace falta pintar
+        }
+        else
+        {
+            sprite.color = color;                        // sin animacion: solo cambia de color
+        }
     }
 
     void LanzarBola()
@@ -148,6 +168,11 @@ public class Jugador : MonoBehaviour
         }
 
         invencibleHasta = Time.time + tiempoInvencible;
+
+        // Animacion de dano: solo la tienen la forma Rosa y la de Piedra
+        if (animator != null && (forma == Forma.Rosa || forma == Forma.Piedra))
+            animator.SetTrigger("Dano");
+
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, saltoAlGolpe);
     }
 
@@ -162,7 +187,6 @@ public class Jugador : MonoBehaviour
         if (sprite != null) sprite.enabled = true;
         rb.linearVelocity = Vector2.zero;
         rb.bodyType = RigidbodyType2D.Kinematic;
-        if (animator != null) animator.SetTrigger("MUERTE");
         Invoke("IrAPantallaMuerte", esperaMuerte);
     }
 
